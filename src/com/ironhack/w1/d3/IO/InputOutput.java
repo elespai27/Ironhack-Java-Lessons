@@ -1,4 +1,4 @@
-package com.ironhack.w1.d3;
+package com.ironhack.w1.d3.IO;
 
 import java.io.File;
 import java.io.FileWriter;

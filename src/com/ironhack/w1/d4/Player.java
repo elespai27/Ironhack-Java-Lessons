@@ -1,6 +1,6 @@
 package com.ironhack.w1.d4;
 
-public class Player {
+public abstract class Player {
     private double volume;
     private int currentTrack;
 
@@ -24,4 +24,5 @@ public class Player {
     public int getCurrentTrack() {
         return currentTrack;
     }
+    public abstract void close();
 }
