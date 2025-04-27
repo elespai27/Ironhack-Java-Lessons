@@ -1,4 +1,4 @@
-package com.ironhack.w1.d4;
+package com.ironhack.w1.d4.AbstractClassInterface;
 
 public class WebPlayer extends Player {
 
